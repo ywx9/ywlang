@@ -1,0 +1,2 @@
+auto sv = string_view("test code");
+std::print("{}\n", sv);
